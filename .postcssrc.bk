@@ -1,0 +1,6 @@
+{
+    "plugins": {
+      "postcss-uncss": {"html": "src/*.html"}
+    }
+}
+  

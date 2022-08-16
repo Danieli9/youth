@@ -1,0 +1,26 @@
+// Abstract files
+@import "abstracts/variables";
+
+// Vendor Files
+@import "vendors/bootstrap";
+
+// Core files
+@import "core/reset";
+@import "core/typography";
+
+// Components
+@import "components/buttons";
+@import "components/slider";
+
+// Layout
+@import "layout/footer";
+@import "layout/header";
+@import "layout/navigation";
+
+// Sections
+@import "sections/cta";
+@import "sections/hero";
+
+// Pages
+@import "pages/home";
+@import "pages/about";
