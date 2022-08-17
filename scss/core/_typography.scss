@@ -1,0 +1,12 @@
+h1 {
+    font-weight: bold;
+    @include fluid-type(420px, 1440px, 40px, 60px);
+    margin-bottom: 50px;
+}
+h6 {
+    color: $yellow;
+    font-size: 20px;
+}
+p {
+    color: $l-shadow;
+}
